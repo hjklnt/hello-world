@@ -2,4 +2,4 @@
 just another repository
 Whats up everyone?!
 
-Hjklnt, just like javascript, html and all  of them basicallly
+Hjklnt, I just like Javascript, Html and etc...
